@@ -1,0 +1,48 @@
+{
+  "Food": [
+    {
+      "type": "Varenyky",
+      "filling": "cabbage",
+      "Due to": "two days"
+    },
+    {
+      "type": "pickled vegetables",
+      "filling": "mushrooms",
+      "due to": "two weeks after opening"
+    },
+    {
+      "type": "pampushky",
+      "filling": "berry jam",
+      "due to": "week"
+    }
+  ],
+  "goods": [
+    {
+      "type": "clothes",
+      "season": "summer",
+      "Color": "yellow"
+    },
+    {
+      "type": "hat",
+      "season": "spring",
+      "color": "black"
+    }
+  ],
+  "other": [
+    {
+      "type": "medicine",
+      "symptoms": "flu",
+      "shape": "round pills"
+    },
+    {
+      "type": "accessories",
+      "purpose": "ears",
+      "material": "metal",
+      "color": "silver"
+    },
+    {
+      "type": "money",
+      "amount": 300
+    }
+  ]
+}
